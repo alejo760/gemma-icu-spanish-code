@@ -1,0 +1,7 @@
+pandas
+openpyxl
+scipy
+ollama
+tqdm
+fuzzywuzzy
+python-Levenshtein

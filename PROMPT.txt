@@ -1,0 +1,2 @@
+Resuma las siguientes notas clínicas para garantizar que el resumen pueda ser comprendido por pacientes sin conocimientos médicos. Utilice un lenguaje sencillo y evite la jerga médica.
+    Notas Clínicas: {note}
